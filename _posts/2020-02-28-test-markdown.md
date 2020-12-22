@@ -50,6 +50,13 @@ var foo = function(x) {
 foo(3)
 ```
 
+
+```python
+def foo(x: Union[int,float]) -> Number:
+  return(x + 5)
+print(foo(3))
+```
+
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
