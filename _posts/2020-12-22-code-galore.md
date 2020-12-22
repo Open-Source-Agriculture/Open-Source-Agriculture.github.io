@@ -1,3 +1,9 @@
+---
+title: Code Galore
+subtitle: Some code snippits
+---
+
+
 # Code Galore
 
 Here's a code chunk:
