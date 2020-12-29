@@ -3,6 +3,9 @@ layout: post
 title: Vote Swapping 
 subtitle: A different type of democracy
 tags: Vote Swapping, Democracy, Simple Blind Ratio, Direct Democracy]
+cover-img: /assets/img/trading-cartoon.jpeg
+thumbnail-img: /assets/img/trading-cartoon.jpeg
+share-img: /assets/img/trading-cartoon.jpeg
 ---
 
 
