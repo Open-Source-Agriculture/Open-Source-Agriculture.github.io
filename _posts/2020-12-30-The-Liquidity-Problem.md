@@ -2,7 +2,7 @@
 layout: post
 title: The Liquidity Problem 
 subtitle: A problem when Vote Swapping via Political Capital
-tags: Vote Swapping, Democracy, Simple Blind Ratio, Direct Democracy, Liquidity]
+tags: [Vote Swapping, Democracy, Simple Blind Ratio, Direct Democracy, Liquidity]
 cover-img: /assets/img/Liquidity.jpeg
 thumbnail-img: /assets/img/Liquidity.jpeg
 share-img: /assets/img/Liquidity.jpeg
