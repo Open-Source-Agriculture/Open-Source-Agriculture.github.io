@@ -14,7 +14,7 @@ author: Kipling Crossing
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I do many things including; geo-spatial datascience, creating digital democracy systems, android and ios apps, python libraries and writing"
+  About Me: "aboutme"
   Resources:
     - My GitHub: "https://github.com/KipCrossing"
     - Open-Source Agriculture : "https://github.com/Open-Source-Agriculture"
