@@ -6,9 +6,11 @@ subtitle: (WIP)
 
 ## Who am I?
 
-My name is Kipling Crossing.
+My name is Kipling Crossing and this is my family
 
 ![image](/assets/img/family.jpeg)
+
+*with wife Moii and son Gideon*
 
 ## What I like to do
 
