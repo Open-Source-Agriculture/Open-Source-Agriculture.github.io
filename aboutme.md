@@ -4,9 +4,11 @@ title: About me
 subtitle: (WIP)
 ---
 
+## Who am I?
+
 My name is Kipling Crossing.
 
-[insert image]
+![image](/assets/img/family.jpeg)
 
 ## What I like to do
 
