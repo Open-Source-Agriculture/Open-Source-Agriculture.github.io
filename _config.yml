@@ -15,6 +15,7 @@ author: Kipling Crossing
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - My GitHub: "https://github.com/KipCrossing"
     - Open-Source Agriculture : "https://github.com/Open-Source-Agriculture"
