@@ -22,6 +22,13 @@ My name is Kipling Crossing and this is my family
 
 ### Political Hacktivism 
 
+I believe that the decisions made on the rules that govern our lives should be accessible, open and participatory. To this end:
+- The people MUST have access to existing and upcoming rules (laws)
+- Systems and technology that facilitate the decision making process SHOULD be open-source
+- The people SHOULD have to opportunity to have their say and vote on existing and upcoming rules
+
+THe following are my efforts toward this:
+
 I am the project lead and open-source community manager on the [Digipol](https://digipol.app/) project. The Digipol mission statement is:
 
 *Connecting Real People with their Parliament*
