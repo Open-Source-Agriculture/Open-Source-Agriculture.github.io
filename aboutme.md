@@ -39,8 +39,9 @@ In it's current form, it's an app for iSO and Android that allows users to view 
 
 I am also heavenly involved in the Flux Network. The Flux Network consists of a network of political parties that aim to implement digital democracy. These digital democracies may include, but are not limited to, direct democracy, liquid democracy, [vote swapping democracy](https://kipcrossing.github.io/2020-12-29-Vote-Swapping/) and issue based direct democracy.
 
+
+### Micro-Python
+
 ### Writing
 
 
-
-## My Projects
