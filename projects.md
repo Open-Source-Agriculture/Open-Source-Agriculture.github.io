@@ -4,7 +4,7 @@ title: Projects
 subtitle: (WIP)
 ---
 
-## Projects
+## Current Projects
 
 ### [digipol](https://github.com/voteflux/voting_app)
 
