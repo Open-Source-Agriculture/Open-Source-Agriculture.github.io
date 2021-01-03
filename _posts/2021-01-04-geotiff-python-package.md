@@ -2,7 +2,7 @@
 layout: post
 title: The geotiff Python Package
 subtitle: Reading and writing GeoTIFF files with pure Python 
-tags: [Tiff, geospatial, python, GIS, DataScience, noGDAL]
+tags: [GeoTiff, geospatial, python, GIS, DataScience, noGDAL]
 cover-img: /assets/img/geotiff.png
 thumbnail-img: /assets/img/geotiff.png
 share-img: /assets/img/geotiff.png
@@ -36,7 +36,7 @@ The following are the features that I would like to see included in this package
 
 ### Additional features 
 
--Full test coverage
+- Full test coverage
 - Typing with lint checking using mypy
 - Documentation: doc blocs and readthedocs
 
