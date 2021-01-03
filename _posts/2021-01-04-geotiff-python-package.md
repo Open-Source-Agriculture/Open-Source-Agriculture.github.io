@@ -12,7 +12,7 @@ share-img: /assets/img/geotiff.png
 
 #### [TT;DR](https://kipcrossing.github.io/2020-12-22-TT-DR/)?
 
-I'm writing a noGDAL python package for reading and writing geotiff files. You can view/follow the project in the [geotiff Github repo](https://github.com/Open-Source-Agriculture/geotiff).
+I'm writing a [noGDAL](https://kipcrossing.github.io/2021-01-03-noGDAL/) python package for reading and writing geotiff files. You can view/follow the project in the [geotiff Github repo](https://github.com/Open-Source-Agriculture/geotiff).
 
 ## The start of a new noGDAL python package for reading and writing tiff files
 
