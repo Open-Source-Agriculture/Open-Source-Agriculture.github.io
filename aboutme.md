@@ -14,11 +14,19 @@ My name is Kipling Crossing and this is my family
 
 ## What I like to do
 
+### Open-Source
+
+I'm a big believer in open-source. 
+
 ### Geo-spatial Data Science
+
+I enjoy geospatial data science with Python. I do not, however, enjoy using the popular geospatial program GDAL and it's python wrappers. In fact, I refuse to use it. I created and employ a noGDAL philosophy where I write geospatial python while *'not rely upon GDAL as a dependency’*. 
+
+I also maintain some noGDAL python packages, so be sure to check out my projects. 
 
 ### Scientific utility apps
 
-### Open-Source
+Throughout my career, I find myself creating utility apps to improve the quality of my work life. I generally like to make these projects open sourced so other may fork and use them. These are mainly geospatial data collection apps. If you rea interested to see what I've made; be sure to check out my projects.
 
 ### Political Hacktivism 
 
