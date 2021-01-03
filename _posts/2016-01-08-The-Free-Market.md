@@ -4,8 +4,8 @@ title: The Free Market
 subtitle: A discussion from 2016
 tags: [freeMarket, opensource, peertopeer, cryptocurrency, decentralisation]
 cover-img: /assets/img/freemarket.jpeg
-thumbnail-img: /assets/freemarket.jpeg
-share-img: /assets/freemarket.jpeg
+thumbnail-img: /assets/img/freemarket.jpeg
+share-img: /assets/img/freemarket.jpeg
 ---
 
 
