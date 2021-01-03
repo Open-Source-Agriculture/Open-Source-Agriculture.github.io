@@ -16,7 +16,7 @@ My name is Kipling Crossing and this is my family
 
 ### Open-Source
 
-I'm a big believer in open-source. 
+I'm a big believer in open-source. I lead a few open-source communities; and by lead, I mean, facilitate a healthy positive culture and nurture their growth. I also do open-source consulting on the side; recommending licenses and that type of stuff. I'm also a big fan of the late Pieter Hintjens and his work.
 
 ### Geo-spatial Data Science
 
@@ -50,6 +50,15 @@ I am also heavenly involved in the Flux Network. The Flux Network consists of a 
 
 ### Micro-Python
 
+I'm also a big fan of [micropython](https://micropython.org/) and try to use it in my hardware solutions.
+
 ### Writing
 
+I enjoy writing. Although I've been diagnosed with *print dyslexia*, I have surrounded myself with tools and techniques that help overcome the related challenges. These include:
 
+- Book: A guide to writing as an engineer
+- spellcheck 
+- grammarly 
+- voice to text
+
+I like to write, among other things, mean looking documentation, articles, plays and opinion pieces. 
