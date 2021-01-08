@@ -1,5 +1,7 @@
 # Open Source Agriculture Website
 
+[open-source-agriculture.github.io/](https://open-source-agriculture.github.io/)
+
 ### Customize website settings
 
 Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
