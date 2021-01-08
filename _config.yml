@@ -14,11 +14,10 @@ author: Kipling Crossing
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
   About: "about"
+  Posts: "posts"
   Projects: "projects"
-  Resources:
-    - GitHub : "https://github.com/Open-Source-Agriculture"
+  GitHub: "https://github.com/Open-Source-Agriculture"
 
 # --- Logo --- #
 

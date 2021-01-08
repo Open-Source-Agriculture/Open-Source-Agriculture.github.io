@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About Open Source Agriculture
-subtitle: Open-sourcing AgTech
+title: Open Source Agriculture
+subtitle: Open-Sourcing AgTech
 ---
 
 ## Our mission
+
+## Who we are
 
