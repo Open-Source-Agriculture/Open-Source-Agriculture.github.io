@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Kipling Crossing
+title: Open Source Agriculture
 
 # Your name to show in the footer
 author: Kipling Crossing
@@ -14,17 +14,17 @@ author: Kipling Crossing
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "home"
+  About: "about"
   Projects: "projects"
   Resources:
-    - My GitHub: "https://github.com/KipCrossing"
-    - Open-Source Agriculture : "https://github.com/Open-Source-Agriculture"
+    - GitHub : "https://github.com/Open-Source-Agriculture"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/kip.png"
+avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -40,13 +40,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kip.crossing@gmail.com"
-  github: KipCrossing
+  github:  Open-Source-Agriculture 
 #   facebook: deanattali
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
-  linkedin: kipling-crossing-a3882215a
+  # linkedin: kipling-crossing-a3882215a
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Kipling Crossings RSS feed
+rss-description: Open-Source-Agriculture RSS feed
 
 # --- General options --- #
 
@@ -72,7 +72,7 @@ rss-description: Kipling Crossings RSS feed
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -95,15 +95,15 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#A2CC3D"
+navbar-text-col: "#234B23"
+navbar-border-col: "#D4DE26"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#A2CC3D"
+footer-text-col: "#234B23"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
