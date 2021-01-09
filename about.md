@@ -30,7 +30,7 @@ Hephzibah Crossing is a University of Sydney Graduate who studied Agriculture Sc
 
 ### Kipling Crossing
 
-<img src="https://github.com/Open-Source-Agriculture/Open-Source-Agriculture.github.io/blob/master/assets/img/kip.png" width="150">
+<img src="assets/img/kip.png" width="150">
 
 Kipling Crossing is a geospatial data scientist and engineer who works in the AgTech industry. He has a passion for open-source and making the world a better place through collaborative efforts.
 
