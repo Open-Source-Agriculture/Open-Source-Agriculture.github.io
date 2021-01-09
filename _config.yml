@@ -9,7 +9,7 @@
 title: Open Source Agriculture
 
 # Your name to show in the footer
-author: Kipling Crossing
+author: Open Source Agriculture Team
 
 # --- List of links in the navigation bar --- #
 
@@ -38,14 +38,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kip.crossing@gmail.com"
+  # email: "kip.crossing@gmail.com"
   github:  Open-Source-Agriculture 
 #   facebook: deanattali
 #   twitter: daattali
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
-  # linkedin: kipling-crossing-a3882215a
+  linkedin: company/open-source-agriculture
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,10 +69,10 @@ rss-description: Open-Source-Agriculture RSS feed
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -94,7 +94,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#A2CC3D"
+navbar-col: "#6699ff"
 navbar-text-col: "#234B23"
 navbar-border-col: "#D4DE26"
 page-col: "#FFFFFF"
