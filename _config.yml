@@ -9,7 +9,7 @@
 title: Open Source Agriculture
 
 # Your name to show in the footer
-author: Kipling Crossing
+author: Open Source Agriculture Team
 
 # --- List of links in the navigation bar --- #
 
@@ -38,7 +38,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kip.crossing@gmail.com"
+  # email: "kip.crossing@gmail.com"
   github:  Open-Source-Agriculture 
 #   facebook: deanattali
 #   twitter: daattali
