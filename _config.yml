@@ -45,7 +45,7 @@ social-network-links:
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  reddit: yourname
-  # linkedin: kipling-crossing-a3882215a
+  linkedin: open-source-agriculture
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,10 +69,10 @@ rss-description: Open-Source-Agriculture RSS feed
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
-  vk: false
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -94,7 +94,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#A2CC3D"
+navbar-col: "#33adff"
 navbar-text-col: "#234B23"
 navbar-border-col: "#D4DE26"
 page-col: "#FFFFFF"
