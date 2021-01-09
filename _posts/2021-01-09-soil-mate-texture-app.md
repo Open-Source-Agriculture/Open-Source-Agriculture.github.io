@@ -1,4 +1,4 @@
----
+git---
 layout: post
 title: Soil Mate - Soil Texture App
 subtitle: A soil texture helper app
@@ -30,11 +30,11 @@ As the user selects a soil texture, they will realize each texture has a unique 
 
 Upon first use of the app the user will see an empty list and a bottom app bar. 
 
-![Empty Sample List](https://imgur.com/P904mJc)
+![Empty Sample List](https://i.imgur.com/P904mJc.jpeg)
 
 The add button will take you to the add sample page where the user will have the option to choose a texture class, specify the depth range, and add a custom sample ID.
 
-![Add sample page](https://imgur.com/UVmTsiQ)
+![Add sample page](https://i.imgur.com/UVmTsiQ.jpeg)
 
 Once ‘Submit’ is pressed, a new card will appear on the main sample list page (see gif). The information contained in the card includes:
  * ID (Automatically incremented by one for each subsequent sample)
@@ -43,7 +43,7 @@ Once ‘Submit’ is pressed, a new card will appear on the main sample list pag
  * The depth range
  * The location
 
-![Sample List](https://imgur.com/aO17edP)
+![Sample List](https://i.imgur.com/aO17edP.jpeg)
 
 
 Finally, after the user has populated the sample list, they have the option to “Export Data”, which will create a csv file that the user will be prompted to share on external applications such as email. To start from the beginning the “Delete All” feature will empty the sample list.
