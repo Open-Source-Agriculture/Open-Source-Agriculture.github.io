@@ -22,7 +22,7 @@ We also provide consulting services.
 
 ## Who we are
 
-The Open Source Agriculture contributors are passionate about agriculture and open-source. We believe that open-source is the key to ensure the integrity 
+The Open Source Agriculture contributors are passionate about agriculture and open-source. We believe that open-source is the key to ensure progress in solving the worlds food and environmental problems with trust, integrity and unity.
 
 ### Hephzibah Crossing
 
@@ -38,4 +38,4 @@ Kipling Crossing is a geospatial data scientist and engineer who works in the Ag
 
 ## Collaborating
 
-If you like what we do and would like to collaborate please join us on our [discord server](https://discord.gg/N7vZx3UBEc) and introduce yourself.
+If you like what we do and would like to collaborate, please join us on our [discord server](https://discord.gg/N7vZx3UBEc) and introduce yourself.
