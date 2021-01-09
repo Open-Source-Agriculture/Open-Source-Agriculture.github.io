@@ -44,6 +44,6 @@ Any projects or experience with these will be highly regarded.
 
 Work from home 4 days a week. Salary: Rs. 10000 
 
-Please send your resume and covering letter to +61 499181194
+Please send your resume and covering letter via WhatsApp to +61499181194
 
 Also, please include any projects (on Github or other)
