@@ -34,7 +34,7 @@ Upon first use of the app the user will see an empty list and a bottom app bar.
 
 The add button will take you to the add sample page where the user will have the option to choose a texture class, specify the depth range, and add a custom sample ID.
 
-![Add sample page](https://i.imgur.com/UVmTsiQ.jpeg)
+![Add sample page](https://i.imgur.com/qlS5W9z.jpeg)
 
 Once ‘Submit’ is pressed, a new card will appear on the main sample list page (see gif). The information contained in the card includes:
  * ID (Automatically incremented by one for each subsequent sample)
