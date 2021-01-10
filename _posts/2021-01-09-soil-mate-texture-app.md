@@ -2,6 +2,10 @@
 layout: post
 title: Soil Mate - Soil Texture App
 subtitle: A soil texture helper app
+tags: [SoilMate, app, flutter, agriculture, DataScience, data, textures, soil]
+cover-img: /assets/img/holding_app.jpg
+thumbnail-img: /assets/img/holding_app.jpg
+share-img: /assets/img/holding_app.jpg
 ---
 
 The scope of the soil mate app is to collect soil data at sample locations in the field. The Soil Mate app is targeted across multiple industries, including agriculture, environmental science, geology and mining. Although focused on industry, the backyard gardener is encouraged to use it for personal gain as well!
