@@ -16,7 +16,9 @@ author: Open Source Agriculture Team
 navbar-links:
   About: "about"
   Posts: "posts"
-  Projects: "projects"
+  Products:
+    - SoilMate: "soilmate"
+    - geotiff: "https://github.com/Open-Source-Agriculture/geotiff"
   GitHub: "https://github.com/Open-Source-Agriculture"
 
 # --- Logo --- #
