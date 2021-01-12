@@ -41,6 +41,7 @@ Any projects or experience with these will be highly regarded.
 - Fast learner
 - problem solving and logic
 - Mathematical ability 
+- Some basic Programming 
 
 Work from home 4 days a week. Salary: Rs. 10000 
 
