@@ -13,11 +13,13 @@ We are passionate about agriculture and open-source. We believe that making know
 
 We make tech for agriculture. This includes:
 
-- Apps for data acquisition (including geospatial data)
+- Apps for data acquisition (including geo-spatial data)
 - Apps for data visualization and presentation
+- Big-Data Applications
 - Automation Pipelines 
 - Hardware for data acquisition and storage
 - Hardware for automation
+- Hardware for IoT
 
 We also provide consulting services.
 
