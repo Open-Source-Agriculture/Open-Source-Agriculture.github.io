@@ -12,5 +12,5 @@ share-img: /assets/img/holding_app.jpg
 
 <p float="left">
   <a href="https://play.google.com/store/apps/details?id=au.com.opensourceagriculture.soil_mate"><img src="/assets/img/playstore.png" width="200" /></a>
-  <img src="/assets/img/appstore.png" width="200" /> 
+  <img src="/assets/img/appstore_coming_soon.jpeg" width="200" /> 
 </p>
