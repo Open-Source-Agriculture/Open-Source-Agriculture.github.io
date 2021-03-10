@@ -19,3 +19,5 @@ share-img: /assets/img/holding_app.jpg
 ![texture](/assets/img/texture_survey.png)
 
 ![ground_cover](/assets/img/ground_cover_survey.png)
+
+[Request a survey type](https://github.com/Open-Source-Agriculture/soil_mate/issues)
