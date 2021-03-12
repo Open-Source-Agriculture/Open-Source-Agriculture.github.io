@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Soil Mate
-subtitle: The Soil Mate App
+title: Soil LogR
+subtitle: The Soil LogR App
 cover-img: /assets/img/holding_app.jpg
 thumbnail-img: /assets/img/holding_app.jpg
 share-img: /assets/img/holding_app.jpg
@@ -12,7 +12,7 @@ share-img: /assets/img/holding_app.jpg
   <a href="https://apps.apple.com/us/app/soil-mate/id1554446504"><img src="/assets/img/appstore.png" width="140" /></a>
 </p>
 
-*The soil mate app provides a simple and convenient way to collect soil data at sample locations in the field. The Soil Mate app is targeted across multiple industries, including agriculture, environmental science, geology and mining.*
+*The soil logR app provides a simple and convenient way to collect soil data at sample locations in the field. The Soil LogR app is targeted across multiple industries, including agriculture, environmental science, geology and mining.*
 
 ### Survey Types
 
